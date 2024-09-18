@@ -1,6 +1,16 @@
 {
   "editor.formatOnSave": true,
   "editor.codeActionsOnSave": {
-    "source.fixAll": "always"
+    "source.fixAll": "always",
+    "source.organizeImports": "always"
+  },
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+  "workbench.editor.customLabels.patterns": {
+    "**/src/app/**/page.tsx": "${dirname} - Page",
+    "**/src/app/**/layout.tsx": "${dirname} - Layout",
+    "**/src/components/**/index.tsx": "${dirname} - Component"
   }
 }
