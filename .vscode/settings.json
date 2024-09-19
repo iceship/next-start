@@ -4,6 +4,7 @@
     "source.fixAll": "always",
     "source.organizeImports": "always"
   },
+  "editor.linkedEditing": true,
   "files.associations": {
     "*.css": "tailwindcss"
   },
@@ -12,5 +13,6 @@
     "**/src/app/**/page.tsx": "${dirname} - Page",
     "**/src/app/**/layout.tsx": "${dirname} - Layout",
     "**/src/components/**/index.tsx": "${dirname} - Component"
-  }
+  },
+  "cSpell.words": ["nextui"]
 }
