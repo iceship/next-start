@@ -14,5 +14,5 @@
     "**/src/app/**/layout.tsx": "${dirname} - Layout",
     "**/src/components/**/index.tsx": "${dirname} - Component"
   },
-  "cSpell.words": ["nextui"]
+  "cSpell.words": ["jiti", "Jiti", "nextui"]
 }
