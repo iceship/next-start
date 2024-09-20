@@ -1,3 +1,6 @@
+# based in CJ next-start 
+https://github.com/w3cj/next-start
+
 # Next Start
 
 A basic Next.js starter.
