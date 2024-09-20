@@ -1,4 +1,4 @@
-# based in CJ next-start 
+# Based on CJ's next-start 
 https://github.com/w3cj/next-start
 
 # Next Start
