@@ -7,7 +7,6 @@ import requireAuth from "@/utils/require-auth";
 export default async function Profile() {
   await requireAuth();
   const session = (await getServerSession(options))!;
-
   return (
     <Card className="mx-auto mt-4 max-w-md">
       <CardBody>
